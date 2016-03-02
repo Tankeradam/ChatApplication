@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFService", "WCFService\WCFService.csproj", "{D00A79D7-8B6F-4D48-87CB-D8B4AE8EC2AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatProgram", "ChatProgram\ChatProgram.csproj", "{0F0D0AD8-D06C-433C-9BF8-7AC9B99B49F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D00A79D7-8B6F-4D48-87CB-D8B4AE8EC2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D00A79D7-8B6F-4D48-87CB-D8B4AE8EC2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D00A79D7-8B6F-4D48-87CB-D8B4AE8EC2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0D0AD8-D06C-433C-9BF8-7AC9B99B49F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0D0AD8-D06C-433C-9BF8-7AC9B99B49F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0D0AD8-D06C-433C-9BF8-7AC9B99B49F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0D0AD8-D06C-433C-9BF8-7AC9B99B49F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
